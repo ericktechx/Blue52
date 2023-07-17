@@ -1,0 +1,73 @@
+h2 {
+    margin: 60px 0px 0px 0px;
+    padding: 40px 40px 0px 40px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 180px 180px;
+    padding: 0px 40px 0px 40px;
+}
+
+#img-1, #img-2 {
+    background-position: center;
+    background-size: cover;
+    width: 150px;
+    height: 180px;
+}
+
+#img-1 {
+    background-image: url('../Imagens/Personalizados/tênis1.jpg');
+}
+
+#img-2 {
+    background-image: url('../Imagens/Personalizados/tênis2.jpg');
+}
+
+.tênis-1 h3, .tênis-2 h3 {
+    margin: 185px 0px 0px 0px;
+    padding: 0px 0px 0px 7px;
+    border-left: 2px solid black;
+}
+
+.tênis-1 p, .tênis-2 p {
+    font-size: 13px;
+    margin: 2px;
+    width: 148px;
+    border-right: 2px solid #eee;
+    border-bottom: 2px solid #eee;
+}
+
+.personalização {
+    padding: 0px 30px 0px 35px;
+}
+
+.personalização h2 {
+    padding: 0px;
+    margin: 100px 0px 30px 0px;
+}
+
+.personalização a {
+    margin: 0px 0px 0px 100px;
+}
+
+.personalização img {
+    padding: 20px;
+    background-color: rgb(242, 242, 242);
+    border: 1px solid deepskyblue;
+    border-radius: 20%;
+}
+
+.personalização p {
+    margin: 35px 0px 0px 0px;
+    font-size: 12px;
+}
+
+span {
+    font-weight: bold;
+}
+
+#alt {
+    margin: 0px;
+    color: deepskyblue;
+}

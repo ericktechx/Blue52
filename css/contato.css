@@ -1,0 +1,106 @@
+.banner_contato {
+    padding: 75px 0px 0px 0px;
+    width: 413px;
+    height: 200px;
+    border-bottom: 1px solid white;
+}
+
+.container {
+    margin: 20px;
+    font-weight: bold;
+}
+
+.container p {
+    margin: 0px;
+}
+
+#p1 {
+    padding: 20px 0px 0px 13px;
+    font-size: 16px;
+}
+
+#p2 {
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+    color: gray;
+    font-size: 14px;
+}
+
+.telefone {
+    display: flex;
+    margin: 0px 25px 0px 25px;
+}
+
+.telefone h3 {
+    margin: 0px;
+    padding: 5px 0px 0px 10px;
+}
+
+.telefone img {
+    width: 30px;
+    height: 30px;
+}
+
+.whatsapp {
+    display: flex;
+    margin: 0px 25px 0px 25px;
+    padding: 10px 0px 0px 0px;
+}
+
+.whatsapp h3{
+    margin: 0px;
+    padding: 6px 0px 0px 5px;
+}
+
+.whatsapp img{
+    width: 35px;
+    height: 35px;
+}
+
+.instagram {
+    display: flex;
+    margin: 0px 25px 0px 25px;
+    padding: 8px 0px 0px 0px;
+}
+
+.instagram h3 {
+    margin: 0;
+    padding: 5px 0px 0px 7px;
+}
+
+.instagram img {
+    width: 35px;
+    height: 35px;
+}
+
+.facebook {
+    display: flex;
+    margin: 0px 25px 0px 25px;
+    padding: 7px 0px 0px 0px;
+}
+
+.facebook h3 {
+    margin: 0px;
+    padding: 6px 0px 0px 8px;
+}
+
+.facebook img {
+    width: 35px;
+    height: 35px;
+}
+
+.gmail {
+    display: flex;
+    margin: 0px 25px 0px 25px;
+    padding: 6px 0px 0px 0px;
+}
+
+.gmail h3 {
+    margin: 0px;
+    padding: 5px 0px 0px 9px;
+}
+
+.gmail img {
+    width: 35px;
+    height: 35px;
+}
